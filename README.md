@@ -1,6 +1,7 @@
 # Welcome to my repository
 
 ## At the moment I have four repositories that were created during my course, that showed me the basics of test automatization.
+  ### They are mainly written in english, but there are some sings of polish language. I would say they are a bit outdated, but please take a look if you'd like to.
 
 ### Framework that i am acustomed to use is Selenium.
 
