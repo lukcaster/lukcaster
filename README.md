@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my repository
+
+## At the moment I have four repositories that were created during my course, that showed me the basics of test automatization.
+
+### Framework that i am acustomed to use is Selenium.
+
+<!--## I am currently working on a test that checks if I have applied for all junior position on No Fluff Jobs webiste.
 
 <!--
 **lukcaster/lukcaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
