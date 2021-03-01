@@ -1,6 +1,9 @@
-# Welcome to my repository
+# Welcome to my profle
 
-## At the moment I have four repositories that were created during my course, that showed me the basics of test automatization.
+My name is Łukasz I am a 29 years old happily married man, trying to improve my testing automation skills.
+
+
+## At the moment I have four repositories that were created during my course, that taught me the basics of test automatization.
   ### They are mainly written in english, but there are some sings of polish language. I would say they are a bit outdated, but please take a look if you'd like to.
 
 ### Framework that i am acustomed to use is Selenium.
