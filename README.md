@@ -9,6 +9,8 @@
 
 This test is being run on Chrome ver.88.0.4324.182 (Official Build) (64-bit)
 
+Revelead the test, It is not finished yet, but it should be up and runing soon.
+
 <!--
 **lukcaster/lukcaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
